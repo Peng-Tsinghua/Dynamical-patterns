@@ -1,0 +1,5 @@
+This package calculates the system trajectories of the Illinois power grid under different voltage dampings in the nominal operating scenarios. To perform, please follow the instructions below.
+
+1. You first need the MATPOWER package, which can be obtained from https://matpower.org/
+2. Put all files in the package in the same folder. And add matpower package into the MATLAB searching path.
+3. Run the main.m by MATLAB 2019a or higher versions. 
